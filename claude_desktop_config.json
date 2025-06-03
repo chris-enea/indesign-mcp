@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "indesign": {
+      "command": "/Users/honeycomb/indesign_mcp/venv/bin/python",
+      "args": ["/Users/honeycomb/indesign_mcp/server.py"],
+      "env": {}
+    }
+  }
+}

@@ -54,7 +54,7 @@ Returns all text content from the active InDesign document.
 ## Requirements
 
 - Python 3.7+
-- Adobe InDesign (tested with 2024)
+- Adobe InDesign (tested with 2025)
 - macOS (uses osascript for InDesign communication)
 - Active InDesign document
 
